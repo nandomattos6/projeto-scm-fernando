@@ -1,3 +1,5 @@
 print("Projeto de Gerenciamento de Configuração")
 print("Artefato criado para a atividade prática")
 print("Aluno: Fernando Mattos")
+print("Alteração realizada no artefato local")
+print("Versão atualizada no repositório remoto")
